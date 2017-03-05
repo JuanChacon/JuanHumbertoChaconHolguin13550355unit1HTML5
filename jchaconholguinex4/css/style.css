@@ -1,0 +1,69 @@
+body{
+background-color:white;    
+}
+
+.main_title{
+    float: right;
+    }
+
+header img{
+    width: 100px;
+   }
+
+
+nav{
+     text-align: center;   
+     background: #e1f5fe;
+     font-size: 20px;
+}
+
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 15px;
+}
+.training{
+    background-color: #e1f5fe;  
+    width: 950px;
+    border: 1px solid blue;
+    margin-bottom: 8px;
+}
+
+.tittleArt{
+   float: right;
+    margin-top: 10 px;
+}
+aside article { 
+    float: right;
+    display: inline-block;
+    text-align: justify;
+    
+}
+aside {
+    float: right;
+    display: inline-block;
+    width:300px;
+    background: #e0e0e0;
+    padding: 10px;
+    padding-right: 12px;
+    border: 1px solid gray;
+    margin-top: 50px; 
+}
+
+
+hr{
+    width: 950px;
+    float: left;
+    margin-top:-18px;
+}
+
+
+ 
+
+
+
+
