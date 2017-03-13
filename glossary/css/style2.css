@@ -1,0 +1,29 @@
+body{
+    background-image: url(http://www.dirint.com.ar/dir_int_new/images/autoridades/patternIAFAuto.jpg);
+        ("../public/img/BackAa.jpg")
+}
+header{
+    width: 1355px ;
+    height:180px;
+    margin-top: -25px;    
+}
+header h2{
+    font-size: 65px;
+    line-height: 20px;
+}
+
+header h3{
+   font-size: 35px; 
+}
+
+header img{
+    height: 150px ;
+    width: 150px ;
+    float: left;
+    margin-left: 450px;
+    margin-top: -150px;
+}
+
+section article{
+   font-size: 25px; 
+}
